@@ -1,0 +1,9 @@
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\bin\Debug\Lab1Lottery.exe.config
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\bin\Debug\Lab1Lottery.exe
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\bin\Debug\Lab1Lottery.pdb
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.csprojAssemblyReference.cache
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.Form1.resources
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.Properties.Resources.resources
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.csproj.GenerateResource.cache
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.exe
+C:\Users\timho\Source\Repos\Lab1Lottery\Lab1Lottery\obj\Debug\Lab1Lottery.pdb
